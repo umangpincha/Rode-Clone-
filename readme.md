@@ -1,6 +1,6 @@
 # Rode Clone
 
-![My Imge](./images/rode-rodecaster-pro-II-home-page.jpg)
+![My Imge](./assets/rode-rodecaster-pro-II-home-page.a7c69738.jpg)
 
 
 #### By Umang Pincha
